@@ -1,5 +1,9 @@
 <h1 align="center">ruka64-dev - aka ruka, るか</h1>
 
+<div align="center">
+  <img src="/assets/icon.webp" width="200">
+</div>
+
 ## Who?
 * Student from Japan
 * FullStack Developer
