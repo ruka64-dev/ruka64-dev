@@ -5,7 +5,7 @@
 ## Who?
 * Student from Japan
 * FullStack Developer
-* I enjoy playing Minecraft, osu!, Valorant, and some adult games (shhh... don't tell anyone🤫)
+* I enjoy playing Minecraft, Valorant, and some adult games (shhh... don't tell anyone🤫)
 
 ## Skills
 * I can write JavaScript, NodeJS, and TypeScript
